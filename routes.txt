@@ -1,0 +1,11 @@
+/signup.org
+
+/myreviews Auth
+/del/id Auth
+/add/orgId Auth
+/org/1/reviews
+
+/profile Auth
+/auth
+/signup
+
